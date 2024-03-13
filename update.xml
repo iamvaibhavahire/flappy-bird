@@ -1,11 +1,11 @@
 <AppUpdater>
 <update>
     <title>Update Available</title>
-    <latestVersion>1.0</latestVersion>
-    <latestVersionCode>1</latestVersionCode>
+    <latestVersion>1.4</latestVersion>
+    <latestVersionCode>2</latestVersionCode>
     <message>A new version of the app is available. Do you want to update?</message>
     <releaseNotes>New features and bug fixes</releaseNotes>
-    <url>https://example.com/app/update.apk</url>
+    <url>https://github.com/iamvaibhavahire/flappy-bird/blob/main/app-release2.apk</url>
 </update>
 </AppUpdater>
 
